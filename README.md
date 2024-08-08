@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @serenakung
-- 🌱 I’m currently learning the MDN front-end curriculum
-- 💞️ I’ve been enjoying podcasts like Codenewbie
+- 🌱 Currently learning from the MDN Front End Curriculum & Scrimba Pro
 - 😄 Pronouns: she/her
 
