@@ -11,7 +11,7 @@ Over time, I’ve grown from following tutorials to building my own projects and
 - Version control (Git, GitHub)
 - React (in progress)
 - Accessibility and responsive design
-- AI-assisted coding (GitHub Copilot)
+- AI-assisted coding (GitHub Copilot, ChatGPT)
 
 ## 💻 Projects
 | Project | Description | Tech |
